@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNumero()
+comment1.params=
+comment1.target=float\ getSaldo()
+comment2.params=n
+comment2.target=void\ setNumero(int)
+comment3.params=s
+comment3.target=void\ setSaldo(float)
+numComments=4
